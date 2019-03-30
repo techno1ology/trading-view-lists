@@ -4,7 +4,7 @@ Import lists for trading view
 
 ### Binance Lists
 <p>
-  I created a <a href="https://jsfiddle.net/ze2tuwd7/6/">JSFiddle</a> to pull the exchange information.
+  I created a <a href="https://jsfiddle.net/ze2tuwd7/7/">JSFiddle</a> to pull the exchange information.
   I filter out all inactive pairs and stable coins
 </p>
 <p>
