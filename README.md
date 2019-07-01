@@ -25,4 +25,4 @@ Import lists for trading view
 4. __Note: To delete a list it can be the currently selected list. See here binance-usdt is my current list and the delete x icon shows up to all me to delete binance-btc__
 <img src="/images/howto4.png"/>
 
-When I update my list here, I just download all 3 three, delete all 3 from Tading View and Import the new ones.  Enjoy! 
+When I update my scripts and regenerate the lists, I just download all 3 three from here, delete all 3 in Trading View and Import the new ones.  Enjoy! 
