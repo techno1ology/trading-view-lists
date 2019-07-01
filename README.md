@@ -15,14 +15,17 @@ Import lists for trading view
 ### Setup
 1. __Open the list you want to download and click the raw button__
 <img src="/images/howto1.png"/>
-<br/>
+
 2. __right click and save as...__
+
 <img src="/images/howto2.png"/>
-<br/>
+
 3. __In Trading select to Import Watchlist__
+
 <img src="/images/howto3.png"/>
-<br/>
-4. __Note: To delete a list it can be the currently selected list. See here binance-usdt is my current list and the delete x icon shows up to all me to delete binance-btc__
+
+4. __Note: To delete a list it can't be the currently selected list. For example, binance-usdt is my current list here. The delete X icon shows up next to any list that isn't binance-usdt__
+
 <img src="/images/howto4.png"/>
 
 When I update my scripts and regenerate the lists, I just download all 3 three from here, delete all 3 in Trading View and Import the new ones.  Enjoy! 
