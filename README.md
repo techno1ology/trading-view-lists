@@ -12,6 +12,9 @@ Import lists for trading view
   to <a href="https://api.myjson.com/bins/zl2vj" target="_blank">myjson</a> before running the script.
 </p>
 
+### Bittrex List
+<a href="https://jsfiddle.net/4oak785e/1/" target="_blank">Bittrex JSFiddle</a>
+
 ### Setup
 1. __Open the list you want to download and click the raw button__
 <img src="/images/howto1.png"/>
