@@ -4,12 +4,12 @@ Import lists for trading view
 
 ### Binance Lists
 <p>
-  I created a <a href="https://jsfiddle.net/4oak785e/" target="_blank">JSFiddle</a> to pull the exchange information.
+  I created a <a href="https://jsfiddle.net/cb3afvx2/2/" target="_blank">JSFiddle</a> to pull the exchange information.
   I filter out all inactive pairs and stable coins
 </p>
 <p>
   The Binance API does not support CORS so I copy the JSON from the <a href="https://api.binance.com/api/v1/exchangeInfo" target="_blank">Binance API</a>
-  to <a href="https://api.myjson.com/bins/zl2vj" target="_blank">myjson</a> before running the script.
+  to <a href="https://www.npoint.io/25e0c5c7e54d44a48f7f" target="_blank">npoint</a> before running the script.
 </p>
 
 ### Bittrex List
